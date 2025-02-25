@@ -58,7 +58,7 @@ const cameraPositions = [
     
   },
   {
-    // 11. "GNX" - Overhead Bird’s-Eye View
+    // 11. "GNX" - Overhead Bird's-Eye View
     position: [-8.61, 2.98, -12.26],
     target: [3.48, 0.69, -6.97]
     
@@ -84,7 +84,33 @@ const store = proxy({
     position: [0, 0, 0],
     target: [0, 0, 0]
   },
-  cameraPositions
+  cameraPositions,
+  // Scroll configuration
+  scrollConfig: {
+    // Time to wait after scrolling before snapping (in milliseconds)
+    snapDelay: 300,
+    // Smoothness of the scroll-to-section animation ('auto', 'smooth')
+    scrollBehavior: 'smooth',
+    // Whether to enable snap scrolling
+    enableSnapping: true,
+    // Threshold for partial scrolls (0 to 1) - if progress exceeds this, snap to next section
+    snapThreshold: 0.1,
+    // Easing factor for manual scrolling (higher = more resistance)
+    scrollResistance: 0.1
+  },
+  // Camera transition configuration
+  cameraConfig: {
+    // Damping factor for camera position transitions (lower = smoother but slower)
+    positionDamping: 0.15,
+    // Damping factor for camera target/lookAt transitions
+    targetDamping: 0.2,
+    // Whether to enable smooth camera transitions
+    enableSmoothing: true,
+    // Maximum speed for camera position changes (prevents too rapid movement)
+    maxPositionSpeed: 0.5,
+    // Additional easing for transitions between sections (0-1, higher = more easing)
+    transitionEasing: 0.3
+  }
 })
 
 export const useStore = () => useProxy(store)
