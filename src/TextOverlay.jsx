@@ -19,68 +19,68 @@ const item = {
 const sceneContent = [
   {
     title: "Wacced Out Murals",
-    subtitle: "License Plate View",
-    description: "The journey begins with a close-up of the iconic license plate, setting the stage for what's to come."
+    subtitle: "Cultural Defense & Legacy",
+    description: "The journey begins where defaced murals symbolize contested cultural memory. Like the GNX, Kendrick's vehicle becomes a mobile archive protecting Black artistic expression from erasure."
   },
   {
     title: "Squabble Up",
-    subtitle: "Front Left Intimidation",
-    description: "The aggressive stance from the front left reveals the car's intimidating presence on the road."
+    subtitle: "Mobilizing for Cultural Battle",
+    description: "An aggressive stance preparing for confrontation. The track's military imagery transforms the GNX from status symbol to tactical vehicle for cultural defense and authentic expression."
   },
   {
     title: "Luther",
-    subtitle: "Side Profile",
-    description: "Clean and classic side profile that showcases the timeless lines of this masterpiece."
+    subtitle: "Precision & Tenderness",
+    description: "The clean profile reveals how technical excellence serves emotional expression. Like Luther Vandross's vocal mastery, the GNX demonstrates how controlled power enables movement across different cultural territories."
   },
   {
     title: "Man at the Garden",
-    subtitle: "Rear Quarter Power Stance",
-    description: "From this angle, the car exudes power and performance, ready to launch forward at any moment."
+    subtitle: "Achievement & Deserved Success",
+    description: "A meditation on what success truly means. The powerful stance of the GNX represents not just material achievement but personal growth and cultural impact that transcends individual gain."
   },
   {
     title: "Hey Now",
-    subtitle: "Black Mirror",
-    description: "The reflective hood shot captures both the car and the world around it, blending reality with automotive art."
+    subtitle: "Navigating Multiple Spaces",
+    description: "The reflective surface captures movement through physical, social, and cultural territories. Like the GNX's ability to traverse different environments, the track explores mobility across boundaries."
   },
   {
     title: "Reincarnated",
-    subtitle: "Ghost Rider",
-    description: "The pure rear view reveals the spirit of the machine, reborn for a new generation of drivers."
+    subtitle: "Spiritual Transformation",
+    description: "Viewed from above, we witness transformation and rebirth. The GNX becomes a vehicle for spiritual recursion, suggesting Kendrick as a soul reincarnated to address music's complex relationship with Black culture."
   },
   {
     title: "TV Off",
-    subtitle: "High-Angle Rear Lookdown",
-    description: "From above, we see the deliberate design choices that make this vehicle stand apart from the rest."
+    subtitle: "Technical Precision & Raw Power",
+    description: "Examining the mechanics of power through technical excellence. The track's exploration of military structure parallels the GNX's combination of engineering precision and raw force."
   },
   {
     title: "Dodger Blue",
-    subtitle: "Rear Three-Quarter Aerial",
-    description: "An aerial perspective that highlights the car's form against the urban landscape below."
+    subtitle: "Territorial Authority",
+    description: "Authentic movement through LA's geography and culture. The GNX framework here demonstrates how mastery of territory through authentic connection establishes cultural authority."
   },
   {
     title: "Peekaboo",
-    subtitle: "Front Right Power Stance",
-    description: "A playful yet powerful angle that reveals the car's personality and presence."
+    subtitle: "Strategic Visibility",
+    description: "Playful yet powerful, this angle explores surveillance as power. The track transforms the GNX's stealth capabilities into a meditation on controlling one's visibility in both physical and digital spaces."
   },
   {
     title: "Heart Pt. 6",
-    subtitle: "Low Front Perspective",
-    description: "From below, we see the beating heart of this mechanical marvel, ready to roar to life."
+    subtitle: "Memory as Vehicle",
+    description: "From this perspective, we see how memory becomes a vehicle for temporal navigation. The GNX framework illuminates movement through time, artistic development, and cultural preservation."
   },
   {
     title: "GNX",
-    subtitle: "Overhead Bird's-Eye View",
-    description: "The comprehensive overview reveals the perfect proportions and deliberate design of the GNX."
+    subtitle: "The Ultimate Framework",
+    description: "The title track reveals the full meaning of the Grand National Experimental - a sophisticated framework for understanding movement, power, and authentic expression in contemporary culture."
   },
   {
     title: "Gloria",
-    subtitle: "Rear Quarter View",
-    description: "Glory from the left rear quarter, showcasing the muscular stance and classic lines."
+    subtitle: "Love Letter to Hip-Hop",
+    description: "Glory from this angle reveals the intimate relationship between artist and art. Using the metaphor of romance, the track explores Kendrick's complex bond with hip-hop as both companion and conveyance."
   },
   {
     title: "Loop Complete",
-    subtitle: "Back to the Beginning",
-    description: "Our journey comes full circle, returning to where we started but forever changed by what we've experienced."
+    subtitle: "Cultural Transcendence",
+    description: "Our journey comes full circle, revealing the GNX as performance space, battle station, and escape route - just as hip-hop functions as entertainment, cultural weapon, and path to transcendence."
   }
 ];
 
